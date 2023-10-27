@@ -1,4 +1,4 @@
-package diego.t33;
+package aaa.t33;
 
 import javax.swing.*;
 import java.awt.*;
